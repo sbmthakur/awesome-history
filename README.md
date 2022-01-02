@@ -11,3 +11,6 @@
 - [Knowledgia](https://www.youtube.com/c/Knowledgia)
 - [OverSimplified](https://www.youtube.com/c/OverSimplified)
 - [The Armchair Historian](https://www.youtube.com/c/TheArmchairHistorian)
+- [The Great War](https://www.youtube.com/user/TheGreatWar)
+- [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions)
+- [World War Two](https://www.youtube.com/c/WorldWarTwo)
