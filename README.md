@@ -14,3 +14,7 @@
 - [The Great War](https://www.youtube.com/user/TheGreatWar)
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions)
 - [World War Two](https://www.youtube.com/c/WorldWarTwo)
+
+## Interactive Tools
+
+- [100 Life Simulators](https://ordinarymantrying.com/tools/simulators.html) - Step into the decision moments of 100 historical figures — Einstein, Darwin, Turing, and more. Make their choices, then discover what they actually did.
