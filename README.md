@@ -14,3 +14,6 @@
 - [The Great War](https://www.youtube.com/user/TheGreatWar)
 - [Mark Felton Productions](https://www.youtube.com/c/MarkFeltonProductions)
 - [World War Two](https://www.youtube.com/c/WorldWarTwo)
+- [SirManateee](https://www.youtube.com/@SirManateee)
+- [OldBritannia](https://www.youtube.com/@OldBritannia)
+- [BlitzOfTheReich](https://www.youtube.com/@BlitzOfTheReich)
