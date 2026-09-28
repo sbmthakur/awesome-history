@@ -5,7 +5,7 @@
 #   ./fetch-youtube-name.sh https://www.youtube.com/@SirManateee
 #   ./fetch-youtube-name.sh @SirManateee
 
-set -euo pipefail
+set -uo pipefail
 
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <youtube-url-or-handle>"
