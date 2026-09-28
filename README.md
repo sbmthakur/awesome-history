@@ -17,3 +17,4 @@
 - [Sir Manatee](https://www.youtube.com/@SirManateee)
 - [Old Britannia](https://www.youtube.com/@OldBritannia)
 - [Blitz Analysis](https://www.youtube.com/@BlitzOfTheReich)
+- [Kings and Generals](https://www.youtube.com/@KingsandGenerals)
