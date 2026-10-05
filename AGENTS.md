@@ -28,6 +28,12 @@ When adding a new YouTube channel, **always use the shell script** to fetch the 
    - [Channel Name](https://www.youtube.com/@handle)
    ```
 
+   If the channel is in a non-English language, append the language in parentheses:
+
+   ```markdown
+   - [Channel Name](https://www.youtube.com/@handle) (Hindi)
+   ```
+
 ### Why Use the Script?
 
 YouTube handles and display names can differ. The script fetches the actual name from YouTube's page source, ensuring accuracy.
