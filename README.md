@@ -18,3 +18,4 @@
 - [Old Britannia](https://www.youtube.com/@OldBritannia)
 - [Blitz Analysis](https://www.youtube.com/@BlitzOfTheReich)
 - [Kings and Generals](https://www.youtube.com/@KingsandGenerals)
+- [History Connect](https://www.youtube.com/@History_connect) - Hindi language history channel
