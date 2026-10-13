@@ -19,3 +19,7 @@
 - [Blitz Analysis](https://www.youtube.com/@BlitzOfTheReich)
 - [Kings and Generals](https://www.youtube.com/@KingsandGenerals)
 - [History Connect](https://www.youtube.com/@History_connect) (Hindi)
+
+## Interactive Maps & Websites
+
+- [Ancient China Audio StoryMap](https://history.walkingchina.com/) - Interactive GIS cartography and audio storymap tracing 5,000 years of Chinese dynasties, philosopher travels, and literati exile routes.
