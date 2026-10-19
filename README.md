@@ -19,3 +19,4 @@
 - [Blitz Analysis](https://www.youtube.com/@BlitzOfTheReich)
 - [Kings and Generals](https://www.youtube.com/@KingsandGenerals)
 - [History Connect](https://www.youtube.com/@History_connect) (Hindi)
+- [WarCrumbs](https://warcrumbs.com/) - Sourced military history explainers for general readers.
